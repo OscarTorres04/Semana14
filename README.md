@@ -40,4 +40,7 @@ Cambia a la rama especificada.
 #### 10. `git branch`
 Muestra todas las ramas del repositorio.
 
+
+![image](https://github.com/user-attachments/assets/484c91f4-a0ab-49e0-a526-b7f64571b41a)
+
 ---
